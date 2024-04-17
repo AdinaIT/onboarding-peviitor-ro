@@ -1,5 +1,5 @@
 # hello world! Eu sunt Adina. 
-**Am facut un curs in Testare manuala la -IT Factory- de unde am fost redirectionata catre voi si sunt interesata sa-mi dezvolta abilitatile in acest sens. 
+**Am urmat un curs in Testare manuala la IT Factory, iar dupa absolvire am fost redirectionata catre voi fiind sunt interesata sa-mi dezvolta abilitatile in acest sens. 
 Ma pregatesc intre timp pentru ISTQB pe Udemy;  "My future drive-ul" este sa ajung, candva, sa lucrez in securitate cibernetica. 
 Pot fi gasita pe Linkedin dand clik pe acest link: https://www.linkedin.com/in/adina-boeru-24335aba/**
 1. task_0: Done
